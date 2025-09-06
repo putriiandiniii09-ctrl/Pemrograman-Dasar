@@ -1,0 +1,94 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "toc_visible": true,
+      "authorship_tag": "ABX9TyOW3NR3pxCeoAT6ayf08H1H",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/putriiandiniii09-ctrl/Pemrograman-Dasar/blob/main/Pertemuan%201.%20ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 7,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "gYddwip-NTg_",
+        "outputId": "c7b5050f-22a6-43bc-c16d-c7634a611274"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Putri Andini\n",
+            "20\n",
+            "Batam, 28 Mei 2005\n",
+            "Teknik Elektro\n",
+            "Teknologi_Rekayasa_Pembangkit_Energi\n",
+            "3\n",
+            "4232401022\n",
+            "Komplek_Nurul_Jadid_Blok E _ NO 28\n",
+            "Guru_Tpq_Miftahul_'Ulum\n",
+            "Pemrograman Dasar\n",
+            "False\n",
+            "putriiandiniii09@gmail.com\n",
+            "putri.4232401022@students.polibatam.ac.id\n"
+          ]
+        }
+      ],
+      "source": [
+        "# Biodata Saya\n",
+        "\n",
+        "nama = \"Putri Andini\"\n",
+        "umur = 20\n",
+        "tempat_tanggal_lahir = \"Batam, 28 Mei 2005\"\n",
+        "jurusan = \"Teknik Elektro\"\n",
+        "prodi = \"Teknologi_Rekayasa_Pembangkit_Energi\"\n",
+        "semester = 3\n",
+        "nim = \"4232401022\"\n",
+        "alamat_lengkap = \"Komplek_Nurul_Jadid_Blok E _ NO 28\"\n",
+        "pekerjaan = \"Guru_Tpq_Miftahul_'Ulum\"\n",
+        "matakuliah = \"Pemrograman Dasar\"\n",
+        "status_lulus = False\n",
+        "akun_email_google_collaboratory = \"putriiandiniii09@gmail.com\"\n",
+        "akun_gmail_Github = \"putri.4232401022@students.polibatam.ac.id\"\n",
+        "\n",
+        "print ( nama )\n",
+        "print ( umur )\n",
+        "print ( tempat_tanggal_lahir)\n",
+        "print ( jurusan )\n",
+        "print ( prodi )\n",
+        "print ( semester)\n",
+        "print ( nim )\n",
+        "print ( alamat_lengkap )\n",
+        "print ( pekerjaan )\n",
+        "print ( matakuliah )\n",
+        "print ( status_lulus )\n",
+        "print ( akun_email_google_collaboratory )\n",
+        "print ( akun_gmail_Github )"
+      ]
+    }
+  ]
+}
